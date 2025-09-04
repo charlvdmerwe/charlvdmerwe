@@ -31,7 +31,7 @@
 ## 🌱 Currently
 - Exploring advanced **AWS services** for scalable deployments.  
 - Sharpening **Angular.js + Node.js** for full-stack projects.  
-- Building cool web apps and websites for small local companies.  
+- Building cool web apps and websites to contribute to local companies.  
 
 ---
 

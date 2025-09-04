@@ -30,6 +30,7 @@
 ---
 
 ## 🌱 Currently
+- Bsc Software Engineering student at Eduvos
 - Exploring advanced **AWS services** for scalable deployments.  
 - Sharpening **Angular.js + Node.js** for full-stack projects.  
 - Building cool web apps and websites to contribute to local companies.  

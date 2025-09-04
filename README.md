@@ -30,8 +30,8 @@
 
 ## 🌱 Currently
 - Exploring advanced **AWS services** for scalable deployments.  
-- Sharpening **React.js + Node.js** for full-stack projects.  
-- Building cool projects in **.NET** and **Android Studio**.  
+- Sharpening **Angular.js + Node.js** for full-stack projects.  
+- Building cool web apps and websites for small local companies.  
 
 ---
 

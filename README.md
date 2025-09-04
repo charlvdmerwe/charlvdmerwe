@@ -8,16 +8,16 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
+**🎨 Frontend:**
 - AngularJS | React.js | Bootstrap | HTML5 | CSS3 | JavaScript  
 
-**Backend & Cloud:**
+**👨🏼‍💻 Backend & Cloud:**
 - Node.js | C# .NET | Python | AWS  
 
-**Mobile Development:**
+**📱 Mobile Development:**
 - Android Studio | Java | Kotlin (have touched on)  
 
-**Other Languages & Tools:**
+**🧠 Other Languages & Tools:**
 - C++ | Delphi  
 
 ---

@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Charl
 
-<!--
-**charlvdmerwe/charlvdmerwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate full-stack developer with experience in building scalable web and mobile applications.  
+🚀 I love working across the stack, from designing clean UIs to deploying cloud-native solutions.  
+📚 Always learning, always building.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:**
+- AngularJS | React.js | Bootstrap | HTML5 | CSS3 | JavaScript  
+
+**Backend & Cloud:**
+- Node.js | C# .NET | Python | AWS  
+
+**Mobile Development:**
+- Android Studio | Java | Kotlin (have touched on)  
+
+**Other Languages & Tools:**
+- C++ | Delphi  
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=charlvdmerwe&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlvdmerwe&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently
+- Exploring advanced **AWS services** for scalable deployments.  
+- Sharpening **React.js + Node.js** for full-stack projects.  
+- Building cool projects in **.NET** and **Android Studio**.  
+
+---
+
+## 🤝 Let’s Connect
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/charl-van-der-merwe-945a86223/))  
+- [Email](mailto:charl_vd_merwe@outlook.com)  
+
+---
+
+“An idiot admires complexity, a genius admires simplicity"
+― Terry Davis

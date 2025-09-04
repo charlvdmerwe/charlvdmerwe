@@ -23,7 +23,7 @@
 ---
 
 ## 📈 Public GitHub Stats
-![GitHub stats](![GitHub stats](https://github-readme-stats.vercel.app/api?username=charlvdmerwe&show_icons=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=charlvdmerwe&show_icons=true&count_private=true&theme=radical)
   
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlvdmerwe&layout=compact&theme=radical) -->
 

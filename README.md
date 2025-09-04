@@ -36,7 +36,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/charl-van-der-merwe-945a86223/))  
+- [LinkedIn](https://www.linkedin.com/in/charl-van-der-merwe-945a86223/) 
 - [Email](mailto:charl_vd_merwe@outlook.com)  
 
 ---

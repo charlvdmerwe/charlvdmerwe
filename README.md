@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 ### **🎨 Frontend:**
-- AngularJS | React.js | Bootstrap | HTML5 | CSS | JavaScript  
+- AngularJS | React.js | Bootstrap | HTML5 | CSS | JavaScript | NextJS 
 
 ### **👨🏼‍💻 Backend & Cloud:**
 - Node.js | C# .NET | Python | AWS  

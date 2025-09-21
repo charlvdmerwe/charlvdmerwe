@@ -40,8 +40,3 @@
 ## 🤝 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/charl-van-der-merwe-945a86223/) 
 - [Email](mailto:charl_vd_merwe@outlook.com)  
-
----
-
-### “An idiot admires complexity, a genius admires simplicity"
-### ― Terry Davis

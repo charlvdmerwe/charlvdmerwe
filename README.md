@@ -15,7 +15,7 @@
 - Node.js | C# .NET | Python | AWS  
 
 ### **📱 Mobile Development:**
-- Android Studio | Java | Kotlin (have touched on)  
+- Android Studio | Java | Kotlin  
 
 ### **🧠 Other Languages & Tools:**
 - C++ | Delphi  

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charl
 
-💻 Passionate full-stack developer with experience in building scalable web and mobile applications.  
+💻 Passionate full-stack developer with experience in building scalable web, desktop and mobile applications.  
 🚀 I love working across the stack, from designing clean UIs to deploying cloud-native solutions.  
 📚 Always learning, always building.  
 

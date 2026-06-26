@@ -12,7 +12,7 @@
 - AngularJS | React.js | Bootstrap | HTML5 | CSS | JavaScript | NextJS 
 
 ### **👨🏼‍💻 Backend & Cloud:**
-- Node.js | C# .NET | Python | AWS  
+- Node.js | C# .NET | Python | AWS | PHP
 
 ### **📱 Mobile Development:**
 - Android Studio | Flutter | Java | Kotlin  
